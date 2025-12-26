@@ -10,7 +10,7 @@
 - **[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)** – A Swift app for comic lovers using VisionKit.  
 - **[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)** – Python visualization of worm propagation dynamics.
 
-🌱 I’m currently learning **DevOps practices, Swift, Python, and Go**.  
+🌱 I’m currently learning **Go, Swift and Python**.  
 🤝 I’m open to collaboration on interesting projects in software development, automation, and AI.  
 📫 You can reach me via GitHub or through [email](mailto:your-email@example.com).  
 😄 Pronouns: She/Her  
