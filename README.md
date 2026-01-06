@@ -10,7 +10,7 @@ Golang projects:
    
  Web sites:
 -   **[Toon Food](https://github.com/Galya777/ToonFood)** – An advanced full-stack website for "buying" cartoon foods.
-- **[Movie Bites](https://github.com/NiaPopova/MovieBites)  - Web site for movie recipes. Team university projece
+- **[Movie Bites](https://github.com/NiaPopova/MovieBites)  - Web site for movie recipes. Team university project
 
 Games:
 - **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)** – Java project for my FMI course on Modern DevOps practices.
