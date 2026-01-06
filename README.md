@@ -3,6 +3,7 @@
 🎓 I'm currently studying **Informatics at Sofia University** and exploring the world of software development and data science.
 
 💻 I enjoy building projects that challenge me and expand my skills. Some of my notable projects include:  
+
 Golang projects:
 - **[MouseMover](https://github.com/Galya777/MouseMover)** – A Go project for automating mouse movement.
 -  **[MealNoMeal](https://github.com/Galya777/MealNoMeal)** – A GoLang game version of the popular DealNoDeal.
