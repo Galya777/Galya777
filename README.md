@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Galya!
 
-🎓 I'm currently exploring the world of software development and data science.
+🎓 I'm currently exploring the world of software development, cybersecurity and data science.
 
 💻 I enjoy building projects that challenge me and expand my skills. Some of my notable projects include:  
 
