@@ -6,44 +6,44 @@ Hi there 👋, I'm Galya!
 
 Golang / Backend projects:
 
-Kubernetes Security Monitoring System
+**[Kubernetes Security Monitoring System](https://github.com/Galya777/KubernetesSecurityMonitoringSystem)**
  – Go-based system for collecting, processing, and analyzing Kubernetes security events, with a focus on observability, detection logic, and secure service design.
 
-MouseMover
+**[MouseMover](https://github.com/Galya777/MouseMover)**
  – System utility written in Go for Linux using Fyne, focusing on concurrency and OS-level interaction.
 
-MealNoMeal
+**[MealNoMeal](https://github.com/Galya777/MealNoMeal)**
  – Game logic and state management implemented in Go with structured code and separation of concerns.
 
 Web applications:
 
-Toon Food
+**[Toon Food](https://github.com/Galya777/ToonFood)**
  – Full-stack web application simulating a fictional online store, focused on API integration, database design, and secure handling of user inputs and transactions.
 
-Movie Bites
+**[Movie Bites](https://github.com/NiaPopova/MovieBites)**
  – Team university project: web application for movie-based recipes.
 
 Java / Backend projects:
 
-Customer Relationship Management (CRM)
+**[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
 
-DungeonsAndDragons
+**[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
 Machine learning & AI:
 
-FakeNewsDetector
+**[FakeNewsDetector](https://github.com/Galya777/FakeNewsDetector)**
  – Jupyter Notebook project for detecting fake news using Python.
 
 Mobile apps:
 
-SwiftFMI / 2024_prj_ComixApp
+**[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
  – Swift mobile application for comic lovers using VisionKit.
 
 Cybersecurity:
 
-WormPropagationVisualizationProject
+**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
  – Python visualization of worm propagation dynamics.
 
 🌱 I’m currently learning Go, Swift, and Python
