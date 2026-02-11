@@ -31,11 +31,6 @@ Java / Backend projects:
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
-Machine learning & AI:
-
-**[FakeNewsDetector](https://github.com/Galya777/FakeNewsDetector)**
- – Jupyter Notebook project for detecting fake news using Python.
-
 Mobile apps:
 
 **[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
