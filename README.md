@@ -30,6 +30,7 @@ Web applications:
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
 
 Games: 
+
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
