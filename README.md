@@ -4,7 +4,7 @@ Hi there 👋, I'm Galya!
 
 💻 I enjoy building projects that challenge me and expand my skills. Some of my notable projects include:
 
-Golang / Backend projects:
+Golang projects:
 
 **[Kubernetes Security Monitoring System](https://github.com/Galya777/KubernetesSecurityMonitoringSystem)**
  – Go-based system for collecting, processing, and analyzing Kubernetes security events, with a focus on observability, detection logic, and secure service design.
@@ -20,14 +20,16 @@ Web applications:
 **[Toon Food](https://github.com/Galya777/ToonFood)**
  – Full-stack web application simulating a fictional online store, focused on API integration, database design, and secure handling of user inputs and transactions.
 
+ **[Trivia Maker](https://github.com/Galya777/Trivia-Maker)**
+ – Angular web application allowing children to create their own trivia tests and compete with each other. The site is for educational purposes.
+
 **[Movie Bites](https://github.com/NiaPopova/MovieBites)**
  – Team university project: web application for movie-based recipes.
-
-Java / Backend projects:
 
 **[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
 
+Games: 
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
@@ -40,6 +42,10 @@ Cybersecurity:
 
 **[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
  – Python visualization of worm propagation dynamics.
+
+
+*In my profile you can also find my data analysys solutions and results from different Kaggle competitions. 
+
 
 🌱 I’m currently learning Go, Swift, and Python
 🤝 I’m open to collaboration on backend, security, automation, and systems-oriented projects
