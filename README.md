@@ -15,6 +15,9 @@ Golang projects:
 **[MealNoMeal](https://github.com/Galya777/MealNoMeal)**
  – Game logic and state management implemented in Go with structured code and separation of concerns.
 
+**[Telegram Bot](https://github.com/Galya777/todolist-telegram_bot-medium)**
+ – Open-source project contribution. Added new features like chat sessions.
+
 Web applications:
 
 **[Toon Food](https://github.com/Galya777/ToonFood)**
@@ -28,7 +31,12 @@ Web applications:
 
 **[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
+ 
+ Cybersecurity:
 
+**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
+ – Python visualization of worm propagation dynamics.
+ 
 Games: 
 
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
@@ -39,10 +47,7 @@ Mobile apps:
 **[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
  – Swift mobile application for comic lovers using VisionKit.
 
-Cybersecurity:
 
-**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
- – Python visualization of worm propagation dynamics.
 
 
 *In my profile you can also find my data analysys solutions and results from different Kaggle competitions. 
