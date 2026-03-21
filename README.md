@@ -20,6 +20,8 @@ Golang projects:
 
  
 Python projects:
+
+
 **[Neuron Machine Translator](https://github.com/Galya777/NeuronMachineTranslation)**
  – Language model for translating text from english to bulgarian.
 
