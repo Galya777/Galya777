@@ -18,6 +18,12 @@ Golang projects:
 **[Telegram Bot](https://github.com/Galya777/todolist-telegram_bot-medium)**
  – Open-source project contribution. Added new features like chat sessions.
 
+ 
+Python projects:
+**[Neuron Machine Translator](https://github.com/Galya777/NeuronMachineTranslation)**
+ – Language model for translating text from english to bulgarian.
+
+
 Web applications:
 
 **[Toon Food](https://github.com/Galya777/ToonFood)**
@@ -25,9 +31,6 @@ Web applications:
 
  **[Trivia Maker](https://github.com/Galya777/Trivia-Maker)**
  – Angular web application allowing children to create their own trivia tests and compete with each other. The site is for educational purposes.
-
-**[Movie Bites](https://github.com/NiaPopova/MovieBites)**
- – Team university project: web application for movie-based recipes.
 
 **[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
