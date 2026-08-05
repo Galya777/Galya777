@@ -12,7 +12,7 @@ Golang projects:
 **[MouseMover](https://github.com/Galya777/MouseMover)**
  – System utility written in Go for Linux using Fyne, focusing on concurrency and OS-level interaction.
 
-**[MealNoMeal](https://github.com/Galya777/MealNoMeal)**
+**[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
  – Game logic and state management implemented in Go with structured code and separation of concerns.
 
 **[Telegram Bot](https://github.com/Galya777/todolist-telegram_bot-medium)**
