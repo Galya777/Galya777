@@ -1,6 +1,12 @@
 Hi there 👋, I'm Galya!
 
-🎓 I'm currently exploring the world of software development, cybersecurity, and data science, with a strong focus on backend and system-level engineering.
+Security-focused Software Engineer & Automation Enthusiast. I specialize in building secure, high-performance systems, robust backend architectures, and exploring defensive/offensive security concepts.
+
+## 🚀 Technical Expertise
+
+* **Primary Stack (Backend & Security):** Go (Golang), Python, Bash/Linux Shell
+* **Code Auditing & Ecosystem Familiarity:** Java (Spring), JavaScript/TypeScript (React, Angular, Node.js), Swift
+* **Domains:** Systems & Backend Engineering, DevSecOps Automation, Application & Network Security, Data Analysis & Security Observability
 
 💻 I enjoy building projects that challenge me and expand my skills. Some of my notable projects include:
 
@@ -24,7 +30,8 @@ Python projects:
 
 **[Neuron Machine Translator](https://github.com/Galya777/NeuronMachineTranslation)**
  – Language model for translating text from english to bulgarian.
-
+**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
+ – Python visualization of worm propagation dynamics.
 
 Web applications:
 
@@ -37,29 +44,21 @@ Web applications:
 **[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
  – Java Spring backend project focused on backend system design, REST APIs, and database integration.
  
- Cybersecurity:
-
-**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
- – Python visualization of worm propagation dynamics.
  
-Games: 
+Secure Infrastructure & DevSecOps: 
 
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
-Mobile apps:
+📱 Mobile Ecosystems (R&D):
 
 **[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
  – Swift mobile application for comic lovers using VisionKit.
 
 
 
-
-*In my profile you can also find my data analysys solutions and results from different Kaggle competitions. 
-
-
-🌱 I’m currently learning Go, Swift, and Python
-🤝 I’m open to collaboration on backend, security, automation, and systems-oriented projects
+🌱 **Current Focus:** Advanced Concurrency Patterns in Go, Automation, and Security Auditing  
+🤝 **Open for Collaboration on:** High-performance Backend engines, Offensive tools, Cloud Automation, and Infrastructure monitoring
 📫 You can reach me via GitHub or through email
 
 😄 Pronouns: She/Her
