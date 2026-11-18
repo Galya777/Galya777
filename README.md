@@ -18,12 +18,7 @@ Golang projects:
 **[MouseMover](https://github.com/Galya777/MouseMover)**
  – System utility written in Go for Linux using Fyne, focusing on concurrency and OS-level interaction.
 
-**[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
- – Game logic and state management implemented in Go with structured code and separation of concerns.
- You can download the game from here: https://galya777.itch.io/mealnomeal
- Or you can become my google play tester if you want to support me: https://play.google.com/store/apps/details?id=com.nothicalnonsence.mealnomeal
 
- 
 Python projects:
 
 
@@ -54,6 +49,11 @@ Secure Infrastructure & DevSecOps:
 **[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
  – Swift mobile application for comic lovers using VisionKit.
 
+Games:
+**[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
+ – Game logic and state management implemented in Go with structured code and separation of concerns.
+ You can download the game from here: https://galya777.itch.io/mealnomeal
+ Or you can become my google play tester if you want to support me: https://play.google.com/store/apps/details?id=com.nothicalnonsence.mealnomeal
 
 
 🌱 **Current Focus:** Advanced Concurrency Patterns in Go, Automation, and Security Auditing  
