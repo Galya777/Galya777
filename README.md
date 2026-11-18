@@ -41,7 +41,7 @@ Web applications:
 Games:
 
 **[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
- – Game logic and state management implemented in Go with structured code and separation of concerns.
+ – Game logic and state management implemented in Go (+ Fyne) with structured code and separation of concerns.
  You can download the game from here: https://galya777.itch.io/mealnomeal
  Or you can become my google play tester if you want to support me: https://play.google.com/store/apps/details?id=com.nothicalnonsence.mealnomeal
 
