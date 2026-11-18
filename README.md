@@ -35,8 +35,6 @@ Web applications:
  **[Trivia Maker](https://github.com/Galya777/Trivia-Maker)**
  – Angular web application allowing children to create their own trivia tests and compete with each other. The site is for educational purposes.
 
-**[Customer Relationship Management (CRM)](https://github.com/Galya777/CustomerRelationshipManagement)**
- – Java Spring backend project focused on backend system design, REST APIs, and database integration.
  
  
 Secure Infrastructure & DevSecOps: 
@@ -44,12 +42,9 @@ Secure Infrastructure & DevSecOps:
 **[DungeonsAndDragons](https://github.com/Galya777/DungeonsAndDragons)**
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
-📱 Mobile Ecosystems (R&D):
-
-**[SwiftFMI/2024_prj_ComixApp](https://github.com/Galya777/SwiftFMI)**
- – Swift mobile application for comic lovers using VisionKit.
 
 Games:
+
 **[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
  – Game logic and state management implemented in Go with structured code and separation of concerns.
  You can download the game from here: https://galya777.itch.io/mealnomeal
