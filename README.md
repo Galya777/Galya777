@@ -23,9 +23,6 @@ Golang projects:
  You can download the game from here: https://galya777.itch.io/mealnomeal
  Or you can become my google play tester if you want to support me: https://play.google.com/store/apps/details?id=com.nothicalnonsence.mealnomeal
 
-**[Telegram Bot](https://github.com/Galya777/todolist-telegram_bot-medium)**
- – Open-source project contribution. Added new features like chat sessions.
-
  
 Python projects:
 
