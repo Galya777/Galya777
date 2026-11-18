@@ -19,13 +19,7 @@ Golang projects:
  – System utility written in Go for Linux using Fyne, focusing on concurrency and OS-level interaction.
 
 
-Python projects:
 
-
-**[Neuron Machine Translator](https://github.com/Galya777/NeuronMachineTranslation)**
- – Language model for translating text from english to bulgarian.
-**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
- – Python visualization of worm propagation dynamics.
 
 Web applications:
 
@@ -43,6 +37,9 @@ Secure Infrastructure & DevSecOps:
  – Java application demonstrating object-oriented design, CI/CD pipeline, containerization, and Kubernetes deployment.
 
 
+**[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
+ – Python visualization of worm propagation dynamics.
+ 
 Games:
 
 **[MealNoMeal](https://github.com/Galya777/MealNoMeal_BlindVersion)**
