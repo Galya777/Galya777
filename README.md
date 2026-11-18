@@ -19,17 +19,6 @@ Golang projects:
  – System utility written in Go for Linux using Fyne, focusing on concurrency and OS-level interaction.
 
 
-
-
-Web applications:
-
-**[Toon Food](https://github.com/Galya777/ToonFood)**
- – Full-stack web application simulating a fictional online store, focused on API integration, database design, and secure handling of user inputs and transactions.
-
- **[Trivia Maker](https://github.com/Galya777/Trivia-Maker)**
- – Angular web application allowing children to create their own trivia tests and compete with each other. The site is for educational purposes.
-
- 
  
 Secure Infrastructure & DevSecOps: 
 
@@ -39,6 +28,15 @@ Secure Infrastructure & DevSecOps:
 
 **[WormPropagationVisualizationProject](https://github.com/Galya777/WormPropagationVisualizationProject)**
  – Python visualization of worm propagation dynamics.
+
+ 
+Web applications:
+
+**[Toon Food](https://github.com/Galya777/ToonFood)**
+ – Full-stack web application simulating a fictional online store, focused on API integration, database design, and secure handling of user inputs and transactions.
+
+ **[Trivia Maker](https://github.com/Galya777/Trivia-Maker)**
+ – Angular web application allowing children to create their own trivia tests and compete with each other. The site is for educational purposes.
  
 Games:
 
